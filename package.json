@@ -1,7 +1,7 @@
 {
-  "name": "HADES-BOT-OMEGA",
+  "name": "RENGEL-BOT-MD",
   "version": "1.0.0",
-  "description": "subscribe to the HADES-BOT channel",
+  "description": "subscribe to the RENGEL-BOT channel",
   "main": "index.js",
   "type": "module",
   "directories": {
